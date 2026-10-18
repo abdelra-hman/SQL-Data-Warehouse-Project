@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="qjI4KiN7mVVPhupcWQUo">
-    <mxGraphModel dx="1957" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2090" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="lVMT9xzKTm8XpJ-AArBr-19" parent="lVMT9xzKTm8XpJ-AArBr-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="cid" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="lVMT9xzKTm8XpJ-AArBr-20" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="Product categories" vertex="1">
+        <mxCell id="lVMT9xzKTm8XpJ-AArBr-20" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="extra info customer" vertex="1">
           <mxGeometry height="30" width="160" x="590" y="150" as="geometry" />
         </mxCell>
         <mxCell id="lVMT9xzKTm8XpJ-AArBr-22" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="erp_loc_a101" vertex="1">
@@ -86,10 +86,28 @@
           <mxGeometry height="40" width="70" x="180" y="120" as="geometry" />
         </mxCell>
         <mxCell id="lVMT9xzKTm8XpJ-AArBr-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="375" width="370" x="510" y="140" as="geometry" />
+          <mxGeometry height="375" width="370" x="495" y="140" as="geometry" />
         </mxCell>
         <mxCell id="lVMT9xzKTm8XpJ-AArBr-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;ERP&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="630" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iQQQXo8riWJz0I0yckr3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Product" vertex="1">
+          <mxGeometry height="20" width="140" x="300" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="iQQQXo8riWJz0I0yckr3-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Product" vertex="1">
+          <mxGeometry height="20" width="140" x="610" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="iQQQXo8riWJz0I0yckr3-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="Customer" vertex="1">
+          <mxGeometry height="20" width="140" x="300" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="iQQQXo8riWJz0I0yckr3-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="Customer" vertex="1">
+          <mxGeometry height="20" width="140" x="600" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="iQQQXo8riWJz0I0yckr3-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="Customer" vertex="1">
+          <mxGeometry height="20" width="140" x="600" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="iQQQXo8riWJz0I0yckr3-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;" value="Sales" vertex="1">
+          <mxGeometry height="20" width="140" x="30" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
